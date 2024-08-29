@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+
+}
+.padre{
+    background-color: red;
+    padding: 20px;
+    width: 1000px;
+    border-radius: 15px;
+    border-style: dotted;
+}
+.hijo{
+    background-color: yellow;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15px;
+    border-style: dotted;
+}
+.nieto{
+    background-color: chartreuse;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15px;
+    border-style: dotted;
+}
+.bisnieto{
+    background-color: pink;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 15px;
+    border-style: dotted;
+}
+.tataranieto{
+    background-color: plum;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 15px;
+    border-style: dotted;
+}
+.tataratataranieto{
+    background-color: papayawhip;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 15px;
+    border-style: dotted;
+}
+.tataratataratataranieto{
+    background-color: purple;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 15px;
+    border-style: dotted;
+}
